@@ -24,13 +24,10 @@
   </br>
 [![My Skills](https://skillicons.dev/icons?i=c,python,ts,js,html,css,react,redux,nodejs,express,pug,jquery,sass,bootstrap,materialui,styledcomponents,tailwind,jest,nodejs,sqlite,postgres,vscode,postman,github,wordpress&theme=light&perline=5)](https://skillicons.dev)
  </br>
- </br>
- 
- 
-<img src=”https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif”/>
+ <img src=”https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif”/>
  </br>
  </br>
-
+ </br>
 <img      src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"    alt="JavaScript"  /><img      src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"  alt="TypeScript"  />
  <img      src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"        alt="HTML5"        />
 <img
@@ -43,7 +40,8 @@ src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=boot
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"  />
  
 <img  src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode"  />
- 
+   </br> 
+   </br>
 <img
 src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"         alt="Python"         />
 <img        src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"         alt="Django"         />
@@ -56,11 +54,6 @@ src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="JIRA" /></div>
 
  
-
-
-
-[![Linkedin: VPA] (https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]
-(https://www.linkedin.com/in//)
 
 
 </br>
