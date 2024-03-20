@@ -52,8 +52,7 @@ src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&
 
  <img src="https://github-readme-stats.vercel.app/api?username=Smyyecskn&theme=chartreuse-dark" alt="my github stats" width="49%"/>
  </br>
- </br>
- </br>
+ 
 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smyyecskn&theme=chartreuse-dark" alt="my commit status" width="50%" />
 
