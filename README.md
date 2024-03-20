@@ -50,11 +50,11 @@ src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&
  </br>
  </br>
 
- <img src="https://github-readme-stats.vercel.app/api?username=Smyyecskn&theme=chartreuse-dark" alt="my github stats" width="49%"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=Smyyecskn&theme=chartreuse-dark" alt="my github stats" width="50%"/>
   </br>
  
 
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smyyecskn&theme=chartreuse-dark" alt="my commit status" width="55%" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smyyecskn&theme=chartreuse-dark" alt="my commit status" width="50%" />
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smyyecskn&theme=chartreuse-dark&layout=compact" alt="languages" width="50%">
 
