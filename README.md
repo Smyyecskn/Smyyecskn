@@ -21,13 +21,13 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smyyecskn&theme=chartreuse-dark&layout=compact" alt="languages" width="50%">
 
 ![](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
-  </br>
+ </br>
+ </br>
+ </br>
 [![My Skills](https://skillicons.dev/icons?i=c,python,ts,js,html,css,react,redux,nodejs,express,pug,jquery,sass,bootstrap,materialui,styledcomponents,tailwind,jest,nodejs,sqlite,postgres,vscode,postman,github,wordpress&theme=light&perline=5)](https://skillicons.dev)
  </br>
- <img src=”https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif”/>
- </br>
- </br>
- </br>
+  </br>
+
 <img      src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"    alt="JavaScript"  /><img      src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"  alt="TypeScript"  />
  <img      src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"        alt="HTML5"        />
 <img
@@ -41,17 +41,8 @@ src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=boot
  
 <img  src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode"  />
    </br> 
-   </br>
-<img
-src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"         alt="Python"         />
-<img        src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"         alt="Django"         />
-      <img         src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"         alt="PostgreSQL"         />
-<img  src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"         alt="Nodejs"         />
-<img        src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"        />
-<img        src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"        />
-</br>
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT" />
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="JIRA" /></div>
+  <img
+src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"         alt="Python"         /><img        src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"         alt="Django"         /> <img         src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"         alt="PostgreSQL"         /><img  src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"         alt="Nodejs"         /><img        src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"        /><img        src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"        /></br><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT" /><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="JIRA" /></div>
 
  
 
