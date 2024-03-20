@@ -2,14 +2,14 @@
 
 ### Hi there 👋
 💫 About Me:
-🔭 I’m currently working on FrontEnd and BackEnd projects
-🌱 I’m currently learning NodeJS and ExpressJS
-📫 How to reach me: https://www.linkedin.com/in/smyyecskn1/
-⚡ I love design, programming, frontend, backend and books
-🌱 I’m addicted to learning and growing every day
-💬 Ask me about anything
-🤝🏻 I am open to job offers.
-🟢 I like to paint my repo green. I don't like empty boxes.
+🔭 I’m currently working on FrontEnd and BackEnd projects </br>
+🌱 I’m currently learning NodeJS and ExpressJS </br>
+📫 How to reach me: https://www.linkedin.com/in/smyyecskn1/ </br>
+⚡ I love design, programming, frontend, backend and books </br>
+🌱 I’m addicted to learning and growing every day </br>
+💬 Ask me about anything </br>
+🤝🏻 I am open to job offers. </br>
+🟢 I like to paint my repo green. I don't like empty boxes. </br>
  📫 How to find me: 
   - :office: [LinkedIn](https://www.linkedin.com/in/smyyecskn1/)
 
