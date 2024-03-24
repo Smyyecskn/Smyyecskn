@@ -69,7 +69,54 @@ src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&
  
 
 <h2 align="center">My Top Projects</h2>
+<table style="width:100%">
+  <tr>
+    <th>Repo Link</th>
+    <th>Project Demo</th>
+    <th>Stack</th>
+    <th>Project Preview </th>
+  </tr>
 
+  <tr>
+    <td><a href="https://github.com/Smyyecskn/stockApp">STOCK APP<a/></td>
+    <td><a href="https://stock-app-v2-react-mui-tailwind-redux.netlify.app/">Stock App Link</a> </td>
+    <td><p>React JS</p></td>
+    <td  width="50%"><img src="https://github.com/Smyyecskn/stockApp"/></p></td>
+  </tr>
+
+ 
+   <tr>
+    <td><a href="https://github.com/Smyyecskn/recipeApp">RECIPE APP<a/></td>
+    <td><a href="https://recipe-app-with-firebase-and-react.netlify.app/">Demo Link</a> </td>
+    <td><p>REACT FIREBASE</p></td>
+    <td  width="50%"><img src="https://github.com/Smyyecskn/recipeApp"/></p></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/Smyyecskn/movie-app">MOVIE APP<a/></td>
+    <td><a href="https://movie-app-with-firebase.netlify.app/">Demo Link</a> </td>
+    <td><p>REACT TAILWIND FIREBASE</p></td>
+    <td  width="50%"><img src="https://movie-app-with-firebase.netlify.app/"/></p></td>
+  </tr>
+    <tr>
+    <td><a href="https://github.com/Smyyecskn/Gulstore">E-COMMERCE APP<a/></td>
+    <td><a href="https://cskn-store-with-react.netlify.app/">Demo Link</a> </td>
+    <td><p>REACT TAILWIND </p></td>
+    <td  width="50%"><img src="https://github.com/Smyyecskn/Gulstore"/></p></td>
+     </tr>   
+   
+  <tr>
+    <td><a href="https://github.com/Smyyecskn/hospital-app">APPOINTMENT APP FOR HOSPITALS<a/></td>
+    <td><a href="https://cskn-hospital.netlify.app/">Demo Link</a> </td>
+    <td><p>REACT BOOTSTRAP APP </p></td>
+    <td  width="50%"><img src="https://github.com/Smyyecskn/hospital-app"/></p></td>
+  </tr>
+ 
+  
+    
+
+      
+</table>
 
 
 
