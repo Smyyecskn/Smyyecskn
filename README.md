@@ -81,7 +81,7 @@ src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&
     <td><a href="https://github.com/Smyyecskn/stockApp">STOCK APP<a/></td>
     <td><a href="https://stock-app-v2-react-mui-tailwind-redux.netlify.app/">Stock App Link</a> </td>
     <td><p>React JS</p></td>
-    <td  width="50%"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/144324576/307624070-14775817-ae16-426d-8a3e-5847a6871064.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240225%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240225T214043Z&X-Amz-Expires=300&X-Amz-Signature=f95442a24a80ab13bd13065dacda0ef94dea1882d437d64a09627d8756598acb&X-Amz-SignedHeaders=host&actor_id=144324576&key_id=0&repo_id=751892659"/></p></td>
+    <td  width="50%"><img src="https://stock-new.netlify.app/"/></p></td>
   </tr>
 
  
