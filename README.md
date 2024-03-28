@@ -11,7 +11,7 @@
 🤝🏻 I am open to job offers. </br>
 🟢 I like to paint my repo green. I don't like empty boxes. </br>
  📫 How to find me: 
- - :office: [LinkedIn](https://www.linkedin.com/in/%Smyyecskn/)
+ - :office: [LinkedIn]( https://www.linkedin.com/in/smyyecskn1/)
 ![](https://komarev.com/ghpvc/?username=Smyyecskn)
 
 <br>
