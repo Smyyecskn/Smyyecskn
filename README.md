@@ -87,9 +87,9 @@ src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&
 
  tr>
     <td><a href="">STOCK APP<a/></td>
-      <td  width="50%"><img src="https://github.com/Smyyecskn/stockApp"/></p></td>
-    <td><a href="https://stock-app-v2-react-mui-tailwind-redux.netlify.app/">Demo Link</a> </td>
-    <td><p>React JS</p></td>
+        <td><a href="https://stock-app-v2-react-mui-tailwind-redux.netlify.app/">Demo Link</a> </td>
+ <td><p>React JS</p></td>       <td  width="50%"><img src="https://github.com/Smyyecskn/stockApp"/></p></td>
+
   
   </tr>
         <tr>
