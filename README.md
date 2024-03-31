@@ -76,43 +76,43 @@ src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&
     <th>Stack</th>
     <th>Project Preview </th>
   </tr>
-
-  <tr>
-    <td><a href="https://github.com/Smyyecskn/stockApp">STOCK APP<a/></td>
-    <td><a href="https://stock-app-v2-react-mui-tailwind-redux.netlify.app/">Stock App Link</a> </td>
-    <td><p>React JS</p></td>
-    <td  width="50%"><img src=["https://stock-new.netlify.app/"](https://github.com/OmerCoskun43/movie-app-with-firebase/assets/144324576/fc0876d5-7ccd-48b2-910b-2f08edffd1d0 )/></p></td>
-  </tr>
-
- 
    <tr>
-    <td><a href="https://github.com/Smyyecskn/recipeApp">RECIPE APP<a/></td>
-    <td><a href="https://recipe-app-with-firebase-and-react.netlify.app/">Demo Link</a> </td>
-    <td><p>REACT FIREBASE</p></td>
-    <td  width="50%"><img src=""</p></td>
-  </tr>
-
-  <tr>
-    <td><a href="https://github.com/Smyyecskn/movie-app">MOVIE APP<a/></td>
+    <td><a href="">MOVIE APP<a/></td>
     <td><a href="https://movie-app-with-firebase.netlify.app/">Demo Link</a> </td>
     <td><p>REACT TAILWIND FIREBASE</p></td>
-    <td  width="50%"><img src="https://github.com/OmerCoskun43/movie-app-with-firebase/assets/144324576/fc0876d5-7ccd-48b2-910b-2f08edffd1d0 "/></p></td>
+    <td  width="50%"><img src="https://github.com/Smyyecskn/movie-app"/></p></td>
   </tr>
-    <tr>
-    <td><a href="https://github.com/Smyyecskn/Gulstore">E-COMMERCE APP<a/></td>
-    <td><a href="https://cskn-store-with-react.netlify.app/">Demo Link</a> </td>
-    <td><p>REACT TAILWIND </p></td>
+
+
+
+ tr>
+    <td><a href="">STOCK APP<a/></td>
+    <td><a href="https://stock-app-v2-react-mui-tailwind-redux.netlify.app/">Demo Link</a> </td>
+    <td><p>React JS</p></td>
+    <td  width="50%"><img src="https://github.com/Smyyecskn/stockApp"/></p></td>
+  </tr>
+        <tr>
+    <td><a href="">STORE APP<a/></td>
+    <td><a href="https://cskn-store-typescript-tailwind.netlify.app/">Demo Link</a> </td>
+    <td><p>TypeScript Tailwind</p></td>
     <td  width="50%"><img src="https://github.com/Smyyecskn/Gulstore"/></p></td>
-     
-     </tr>   
-   
-  <tr>
-    <td><a href="https://github.com/Smyyecskn/hospital-app">APPOINTMENT APP FOR HOSPITALS<a/></td>
-    <td><a href="https://cskn-hospital.netlify.app/">Demo Link</a> </td>
-    <td><p>REACT BOOTSTRAP APP </p></td>
-    <td  width="50%"><img src="https://github.com/Smyyecskn/hospital-app"/></p></td>
   </tr>
  
+   <tr>
+    <td><a href="">RECIPE APP<a/></td>
+    <td><a href="https://recipe-app-with-firebase-and-react.netlify.app/">Demo Link</a> </td>
+    <td><p>REACT FIREBASE</p></td>
+    <td  width="50%"><img src="https://github.com/Smyyecskn/recipeApp"/></p></td>
+  </tr>
+   <tr>
+    <td><a href="">APPOINTMENT APP FOR HOSPITALS<a/></td>
+    <td><a href="https://cskn-hospital.netlify.app/">Demo Link</a> </td>
+    <td><p>REACT  BOOTSTRAP APP </p></td>
+    <td  width="50%"><img src="https://github.com/OmerCoskun43/project-4-appoinment-app/assets/144324576/5c72749f-969d-46c0-ad23-e05128ccb17e"/></p></td>
+  </tr>
+
+
+   
   
     
 
