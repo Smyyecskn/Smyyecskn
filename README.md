@@ -103,7 +103,6 @@ src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&
     <td><a href="">RECIPE APP<a/></td>
     <td><a href="https://recipe-app-with-firebase-and-react.netlify.app/">Demo Link</a> </td>
     <td><p>REACT FIREBASE</p></td>
-    <td  width="50%"><img src="https://github.com/Smyyecskn/recipeApp"/></p></td>
   </tr>
    <tr>
     <td><a href="">APPOINTMENT APP FOR HOSPITALS<a/></td>
