@@ -74,21 +74,19 @@ src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&
     <th>Repo Link</th>
     <th>Project Demo</th>
     <th>Stack</th>
-    <th>Project Preview </th>
-  </tr>
+   </tr>
    <tr>
     <td><a href="">MOVIE APP<a/></td>
     <td><a href="https://movie-app-with-firebase.netlify.app/">Demo Link</a> </td>
     <td><p>REACT TAILWIND FIREBASE</p></td>
-    <td  width="50%"><img src="https://github.com/Smyyecskn/movie-app"/></p></td>
-  </tr>
+   </tr>
 
 
 
  tr>
     <td><a href="">STOCK APP<a/></td>
         <td><a href="https://stock-app-v2-react-mui-tailwind-redux.netlify.app/">Demo Link</a> </td>
- <td><p>React JS</p></td>       <td  width="50%"><img src="https://github.com/Smyyecskn/stockApp"/></p></td>
+ <td><p>React JS</p></td>     
 
   
   </tr>
@@ -96,7 +94,7 @@ src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&
     <td><a href="">STORE APP<a/></td>
     <td><a href="https://cskn-store-typescript-tailwind.netlify.app/">Demo Link</a> </td>
     <td><p>TypeScript Tailwind</p></td>
-    <td  width="50%"><img src="https://github.com/Smyyecskn/Gulstore"/></p></td>
+    
   </tr>
  
    <tr>
@@ -108,8 +106,7 @@ src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&
     <td><a href="">APPOINTMENT APP FOR HOSPITALS<a/></td>
     <td><a href="https://cskn-hospital.netlify.app/">Demo Link</a> </td>
     <td><p>REACT  BOOTSTRAP APP </p></td>
-    <td  width="50%"><img src="https://github.com/OmerCoskun43/project-4-appoinment-app/assets/144324576/5c72749f-969d-46c0-ad23-e05128ccb17e"/></p></td>
-  </tr>
+   </tr>
 
 
    
