@@ -70,11 +70,11 @@ src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&
 
 <h2 align="center">My Top Projects</h2>
 <table style="width:100%">
- 
+<tr>
     <th>Repo Link</th>
     <th>Project Demo</th>
     <th>Stack</th>
- 
+ </tr>
    <tr>
     <td><a href="">MOVIE APP<a/></td>
     <td><a href="https://movie-app-with-firebase.netlify.app/">Demo Link</a> </td>
