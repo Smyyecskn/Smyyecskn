@@ -86,7 +86,7 @@ src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&
  <tr>
     <td><a href="">STOCK APP<a/></td>
         <td><a href="https://stock-app-v2-react-mui-tailwind-redux.netlify.app/">Demo Link</a> </td>
- <td><p>React JS</p></td>     
+ <td><p>React, React-Redux, Redux Toolkit, Redux-persist, Yup, Formik, REST API, CRUD, Material-UI, Tailwind CSS, Material Tailwind, ApexCharts, MUI Data Grid, React toastify	</p></td>     
 </tr>
   
   </tr>
