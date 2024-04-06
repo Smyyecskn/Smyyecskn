@@ -78,7 +78,7 @@ src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&
    <tr>
     <td><a href="">MOVIE APP<a/></td>
     <td><a href="https://movie-app-with-firebase.netlify.app/">Demo Link</a> </td>
-    <td><p>REACT TAILWIND FIREBASE</p></td>
+    <td><p>React, Firebase, Tailwind, Context API, axios, React-Toastify	</p></td>
    </tr>
 
 
@@ -86,21 +86,21 @@ src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&
  <tr>
     <td><a href="">STOCK APP<a/></td>
         <td><a href="https://stock-app-v2-react-mui-tailwind-redux.netlify.app/">Demo Link</a> </td>
- <td><p>React, React-Redux, Redux Toolkit, Redux-persist, Yup, Formik, REST API, CRUD, Material-UI, Tailwind CSS, Material Tailwind, ApexCharts, MUI Data Grid, React toastify	</p></td>     
+ <td><p>React, React-Redux, Redux Toolkit, Redux-persist, Yup, Formik, REST API, CRUD, Material-UI, Tailwind CSS, Material Tailwind, ApexCharts, MUI Data Grid, React-Toastify	</p></td>     
 </tr>
   
   </tr>
         <tr>
     <td><a href="">STORE APP<a/></td>
     <td><a href="https://cskn-store-typescript-tailwind.netlify.app/">Demo Link</a> </td>
-    <td><p>TypeScript Tailwind</p></td>
+    <td><p>React,Tailwind CSS, CRUD, React-icons	</p></td>
     
   </tr>
  
    <tr>
     <td><a href="">RECIPE APP<a/></td>
     <td><a href="https://recipe-app-with-firebase-and-react.netlify.app/">Demo Link</a> </td>
-    <td><p>REACT FIREBASE</p></td>
+    <td><p>React, Context API, axios, MUI, Cypress	</p></td>
   </tr>
    <tr>
     <td><a href="">APPOINTMENT APP FOR HOSPITALS<a/></td>
