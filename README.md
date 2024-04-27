@@ -98,11 +98,6 @@ src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&
   </tr>
  
    <tr>
-    <td><a href="">RECIPE APP<a/></td>
-    <td><a href="https://recipe-app-with-firebase-and-react.netlify.app/">Demo Link</a> </td>
-    <td><p>React, Context API, axios, MUI, Cypress	</p></td>
-  </tr>
-   <tr>
     <td><a href="">APPOINTMENT APP FOR HOSPITALS<a/></td>
     <td><a href="https://cskn-hospital.netlify.app/">Demo Link</a> </td>
     <td><p>REACT  BOOTSTRAP APP </p></td>
