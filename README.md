@@ -10,6 +10,17 @@
 💬 Ask me about anything </br>
 🤝🏻 I am open to job offers. </br>
 🟢 I like to paint my repo green. I don't like empty boxes. </br>
+🚀 I specialize in:
+
+Programming Languages: TypeScript, JavaScript, ES6, 
+
+Frontend: HTML, JavaScript, React.js, Next.js,  Redux, 
+
+Backend: Node.js, Express.js, Authentication , Authorization
+
+Styling: CSS, SASS, Ant Design, Bootstrap, MaterialUI, Tailwind CSS, Styled Components
+
+Database: SQL, NoSQL PostgreSQL, SQLite3, Mongoose, Sequelize
  📫 How to find me: 
  - :office: [LinkedIn]( https://www.linkedin.com/in/smyyecskn1/)
 ![](https://komarev.com/ghpvc/?username=Smyyecskn)
