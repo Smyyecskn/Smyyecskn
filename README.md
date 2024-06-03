@@ -49,7 +49,7 @@ src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=boot
 </br>
 <img
 src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"         alt="Python"         />
-<img        src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"         alt="Django"         />
+<img        src="https://img.shields.io/badge/Mongoose-092E20?style=for-the-badge&logo=django&logoColor=white"         alt="Mongoose"         />
       <img         src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"         alt="PostgreSQL"         />
 <img  src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"         alt="Nodejs"         />
 <img        src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"        />
